@@ -1,5 +1,3 @@
-Place,Title,Name,Type,Latitude,Longitude,Code,Enclosed_by,Date
-
 Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birth source,Baptism date,Baptism place,Baptism source,Death date,Death place,Death source,Burial date,Burial place,Burial source,Note
 [I0004],,Rebecca,,,,,female,,,,,,,,,,,,,
 [I0024],???,???,,,,,female,,,,,,,,,,,,,
