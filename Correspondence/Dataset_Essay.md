@@ -1,18 +1,18 @@
 # Summary Information
 
-Cope-Evans Correspondence, 1820-1920
+* Cope-Evans Correspondence, 1820-1920
 
-Anna Smith, Haverford College Anne T. and J. Morris Evans Post-Baccalaureate Fellow
+* Anna Smith, Haverford College Anne T. and J. Morris Evans Post-Baccalaureate Fellow
 
-Developed as part of the Cope Evans Project
+* Developed as part of the Cope Evans Project
 
-Adapted from the 2019 version of the project created by Aleena Maryam ‘21
+* Adapted from the 2019 version of the project created by Aleena Maryam ‘21
 
-Updated January 2024
+* Updated January 2024
 
-CSV
+* CSV
 
-English
+* English
 
 # Data Overview
 The Cope-Evans Correspondence, 1820-1920, data set showcases 100 years of correspondence of the Cope-Evans family, as represented in the Cope-Evans Family papers. The primary purpose of this data set and its accompanying visualizations is to demonstrate the epistolary network of the family, particularly as it relates to the family’s movements and relationships across time and changing political, economic, technological, and religious landscapes. The data is represented in a CSV file.
@@ -40,41 +40,41 @@ Despite these efforts, numerous errors are still assumed to exist. Backs of lett
 # Data Structure
 The final data set consists of 3064 letters between 1820 and 1920. All fields except Precise Origin, Origin, Precise Destination, Destination, Author, and Recipient are derived from the metadata schema developed by the TriColleges. Multiple entries within a cell are delimited by a pipe (|).  
 
-Title	
+* Title	
 
-Description
+* Description
 
-Date Created	
+* Date Created	
 
-Genre	
+* Genre	
 
-Precise Origin	
+* Precise Origin	
 
-Origin
+* Origin
 
-Precise Destination	
+* Precise Destination	
 
-Destination
+* Destination
 
-Geographic Subject
+* Geographic Subject
 
-Author	
+* Author	
 
-Recipient	
+* Recipient	
 
-PID \[Persistent Identifier]	
+* PID \[Persistent Identifier]	
 
-Subjects (Name)	
+* Subjects (Name)	
 
-Subjects (Topic)	
+* Subjects (Topic)	
 
-Shelf Locator	
+* Shelf Locator	
 
-Local Identifier	
+* Local Identifier	
 
-Note
+* Note
 
-Item URL
+* Item URL
 
 Where any information was unavailable, the field was simply left blank.
 
@@ -84,5 +84,4 @@ Geography is always political. Even those place names and geographic boundaries 
 Though imperfect, the Library of Congress geographic headings were chosen as the taxonomy schema for origin and destination fields as they most commonly matched the names the authors themselves used. In cases where the creator-supplied name did not match the name in the Library of Congress taxonomy, the former was placed in the relevant “precise” column while the latter was placed in the Origin or Destination column. The project team felt that it was important to retain the original historic and geographic contexts of the letters in the data set while also acknowledging the names currently recognized by the Library of Congress as an accessibility measure.   
 
 # Bibliography 
-Cope-Evans Family papers, HC.MC.1130 and HC. MC.1242. Quaker & Special Collections, Haverford College, Haverford, Pennsylvania. TriCollege Libraries Digital Collections, accessed 29 January 2024, https://digitalcollections.tricolib.brynmawr.edu/collections/
-cope-evans-family-papers. 
+Cope-Evans Family papers, HC.MC.1130 and HC. MC.1242. Quaker & Special Collections, Haverford College, Haverford, Pennsylvania. TriCollege Libraries Digital Collections, accessed 29 January 2024, https://digitalcollections.tricolib.brynmawr.edu/collections/cope-evans-family-papers. 
